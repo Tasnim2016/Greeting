@@ -1,0 +1,22 @@
+{
+  "name": "greeting",
+  "version": "0.1.0",
+  "description": "This is a fun code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasnim2016/Greeting.git"
+  },
+  "keywords": [
+    "Fun"
+  ],
+  "author": "“tasnim.rahman” <“tasnim.rahman@bs-23.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasnim2016/Greeting/issues"
+  },
+  "homepage": "https://github.com/Tasnim2016/Greeting#readme"
+}
